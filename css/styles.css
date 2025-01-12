@@ -2,12 +2,14 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
 ul,
 ol {
   list-style: none;
   padding: 0;
   margin: 0;
 }
+
 h1,
 h2,
 h3,
@@ -15,22 +17,24 @@ h4,
 p {
   margin: 0;
 }
+
 img {
   display: block;
 }
+
 button {
   cursor: pointer;
 }
+
 body {
   font-family: "Poppins", serif;
   background-color: #fff;
   color: #22343d;
 }
-.header {
-}
 
-.nav {
-}
+.header {}
+
+.nav {}
 
 .logo {
   font-weight: 700;
@@ -39,36 +43,38 @@ body {
   color: #173a56;
 }
 
-.nav-list {
-}
+.nav-list {}
 
 .nav-link {
   line-height: 1.75;
 }
+
 .current {
   font-weight: 600;
 }
-.header-list-btn {
-}
+
+.header-list-btn {}
 
 .header-btn {
   font-weight: 600;
   font-size: 16px;
   border-radius: 4px;
 }
+
 .header-btn-in {
   color: #173a56;
   background-color: transparent;
   border: 1px solid #bcd0e5;
 }
+
 .header-btn-up {
   color: #fff;
   background-color: #02897a;
   border: none;
 }
+
 /* hero */
-.hero {
-}
+.hero {}
 
 .hero-title {
   font-size: 40px;
@@ -80,12 +86,12 @@ body {
   line-height: 1.55556;
 }
 
-.hero-list {
-}
+.hero-list {}
 
 .hero-btn {
   font-size: 16px;
 }
+
 .hero-btn-start {
   font-weight: 700;
   color: #fff;
@@ -93,11 +99,13 @@ body {
   border-radius: 4px;
   border: none;
 }
+
 .hero-btn-start:hover,
 .hero-btn-start:focus {
   background-color: #bcd0e5;
   color: #02897a;
 }
+
 .hero-btn-watch {
   font-weight: 600;
   text-decoration: underline;
@@ -105,20 +113,18 @@ body {
   border: none;
   background-color: transparent;
 }
+
 /* product */
-.product {
-}
+.product {}
 
 .product-title {
   font-size: 32px;
   text-align: center;
 }
 
-.product-list {
-}
+.product-list {}
 
-.product-item {
-}
+.product-item {}
 
 .product-subtitle {
   font-weight: 600;
@@ -137,13 +143,14 @@ body {
   font-size: 16px;
   color: #fff;
 }
+
 .product-btn:hover,
 .product-btn:focus {
   background-color: #173a56;
 }
+
 /* management */
-.management {
-}
+.management {}
 
 .management-title {
   font-weight: 600;
@@ -159,11 +166,9 @@ body {
   line-height: 1.625;
 }
 
-.management-list {
-}
+.management-list {}
 
-.management-item {
-}
+.management-item {}
 
 .management-subtitle {
   font-weight: 600;
@@ -174,9 +179,9 @@ body {
 .management-desk {
   line-height: 1.625;
 }
+
 /* customers */
-.customers {
-}
+.customers {}
 
 .customers-title {
   font-weight: 600;
@@ -192,18 +197,16 @@ body {
   line-height: 1.625;
 }
 
-.customers-list {
-}
+.customers-list {}
 
-.customers-item {
-}
+.customers-item {}
 
 .customers-desc {
   line-height: 1.625;
 }
+
 /* optimisation */
-.optimisation {
-}
+.optimisation {}
 
 .optimisation-title {
   font-weight: 600;
@@ -219,17 +222,16 @@ body {
   line-height: 1.625;
 }
 
-.optimisation-list {
-}
+.optimisation-list {}
 
-.optimisation-item {
-}
+.optimisation-item {}
 
 .optimisation-subtitle {
   font-weight: 600;
   font-size: 16px;
   line-height: 1.625;
 }
+
 .optimisation-desk {
   line-height: 1.625;
 }
@@ -238,14 +240,14 @@ body {
 .process {}
 
 .process-title {
-    font-size: 32px;
-        text-align: center;
+  font-size: 32px;
+  text-align: center;
 }
 
 .process-text {
-    font-weight: 500;
-    line-height: 1.625;
-        text-align: center;
+  font-weight: 500;
+  line-height: 1.625;
+  text-align: center;
 }
 
 .process-list {}
@@ -253,33 +255,35 @@ body {
 .process-item {}
 
 .process-desk {
-    font-weight: 500;
-        text-align: center;
-        color: #2f281e;
+  font-weight: 500;
+  text-align: center;
+  color: #2f281e;
 }
 
 .process-btn {
-    font-weight: 700;
-        font-size: 16px;
-        color: #fff;
-        border-radius: 4px;
-        background-color: #02897a;
-        border: none;
+  font-weight: 700;
+  font-size: 16px;
+  color: #fff;
+  border-radius: 4px;
+  background-color: #02897a;
+  border: none;
 }
+
 .process-btn:hover,
-.process-btn:focus{
-    background-color: #173a56;
+.process-btn:focus {
+  background-color: #173a56;
 }
+
 /* contents */
 .contents {}
 
 .contents-title {
-    font-size: 34px;
+  font-size: 34px;
 }
 
 .contents-text {
-    font-weight: 500;
-    line-height: 1.625;
+  font-weight: 500;
+  line-height: 1.625;
 }
 
 .contents-list {}
@@ -287,28 +291,31 @@ body {
 .contents-item {}
 
 .contents-desk {
-    line-height: 1.75;
+  line-height: 1.75;
 }
 
 .contents-desk-part {
-    font-weight: 700;
+  font-weight: 700;
 }
 
 .contents-subtitle {
-    font-size: 24px;
-        line-height: 1.66667;
+  font-size: 24px;
+  line-height: 1.66667;
 }
-.contents-subtitle-current{
-    color: #02897a;
+
+.contents-subtitle-current {
+  color: #02897a;
 }
-.contents-item:hover > .contents-subtitle{
-color: #02897a;
+
+.contents-item:hover>.contents-subtitle {
+  color: #02897a;
 }
+
 /* price */
 .price {}
 
 .price-title {
-    font-size: 34px;
+  font-size: 34px;
 }
 
 .price-text {}
@@ -316,133 +323,176 @@ color: #02897a;
 .price-list {}
 
 .price-item {
-    width: 322px;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.25);
+  width: 322px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.25);
 }
 
 .price-subtitle {
-    font-size: 24px;
+  font-size: 24px;
 }
 
 .price-desk {
-    font-family: "Montserrat", sans-serif;
-    line-height: 2.5;
+  font-family: "Montserrat", sans-serif;
+  line-height: 2.5;
 }
 
 .price-num {
-    font-family: "Montserrat", sans-serif;
-        font-weight: 700;
-        font-size: 76px;
-        line-height: 1.31579;
-        letter-spacing: 0em;
-        color: #02897a;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 76px;
+  line-height: 1.31579;
+  letter-spacing: 0em;
+  color: #02897a;
 }
 
 .price-currency {
-    font-family: "Inter", sans-serif;
-        font-weight: 700;
-        font-size: 24px;
-        line-height: 1.25;
-        letter-spacing: 0em;
-        color: #02897a;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.25;
+  letter-spacing: 0em;
+  color: #02897a;
 }
 
 .price-period {
-    font-family: "Montserrat", sans-serif;
-        line-height: 1.1875;
-        letter-spacing: 0.01em;
-        color: #afafaf;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.1875;
+  letter-spacing: 0.01em;
+  color: #afafaf;
 }
 
 .price-service-list {}
 
 .price-service-text {
-    font-family: "Montserrat", sans-serif;
-        font-weight: 500;
-        line-height: 1.375;
-        letter-spacing: 0.01em;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  line-height: 1.375;
+  letter-spacing: 0.01em;
 }
 
-.price-service-btn{
-    background-color: #02897a;
-    border-radius: 8px;
-    font-family: "Montserrat", sans-serif;
-        font-weight: 600;
-        font-size: 18px;
-        color: #fff;
-        border: none;
-        
+.price-service-btn {
+  background-color: #02897a;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  color: #fff;
+  border: none;
+
 }
-.price-item-second{
-    color: #fff;
-    background-color: #02897a;
+
+.price-item-second {
+  color: #fff;
+  background-color: #02897a;
 }
-.price-num-second{
-        color: #fff;
+
+.price-num-second {
+  color: #fff;
 }
-.price-currency-second{
-    color: #fff;
+
+.price-currency-second {
+  color: #fff;
 }
-.price-service-btn-second{
-    background-color: #fff;
-    color: #02897a;
+
+.price-service-btn-second {
+  background-color: #fff;
+  color: #02897a;
 }
+
 /* clients */
 .clients {}
 
 .clients-title {
-    font-size: 32px;
-        line-height: 1.78125;
-        letter-spacing: 0.01em;
-        text-align: center;
+  font-size: 32px;
+  line-height: 1.78125;
+  letter-spacing: 0.01em;
+  text-align: center;
 }
 
 .clients-text {
-    font-weight: 500;
-        line-height: 1.75;
-        letter-spacing: 0.01em;
-        text-align: center;
+  font-weight: 500;
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+  text-align: center;
 }
 
 .clients-list {}
 
 .clients-desk {
-    line-height: 1.75;
-        letter-spacing: 0.01em;
-        color: #737373;
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+  color: #737373;
 }
 
 .clients-subtitle {
-    font-weight: 600;
-        line-height: 1.5;
-        letter-spacing: 0.01em;
-        color: #02897a;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.01em;
+  color: #02897a;
 }
 
 .clients-deskription {
-    font-weight: 500;
-        font-size: 14px;
-        line-height: 1.71429;
-        letter-spacing: 0.01em;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.71429;
+  letter-spacing: 0.01em;
 }
+
 /* promo */
 .promo {
-    background-color: #02897a;
+  background-color: #02897a;
 }
 
 .promo-text {
-    font-weight: 600;
-        font-size: 32px;
-        line-height: 1.514;
-        color: #fff;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.514;
+  color: #fff;
 }
 
 .promo-btn {
-    background-color: #fff;
-    border-radius: 8px;
-    border: none;
-    font-weight: 600;
-        font-size: 20px;
-        color: #02897a;
+  background-color: #fff;
+  border-radius: 8px;
+  border: none;
+  font-weight: 600;
+  font-size: 20px;
+  color: #02897a;
+}
+
+/*footer*/
+.footer-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.footer-list {}
+
+.footer-item {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 2.1875;
+}
+
+.footer-desc {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.footer-btn {
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  font-weight: 700;
+  font-size: 16px;
+  background-color: #02897a;
+}
+
+.footer-desc-span {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.875;
+  color: #22343d;
 }
